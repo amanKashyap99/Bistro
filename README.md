@@ -1,2 +1,2 @@
-# Bistro
+# Bristo
 Desktop application
